@@ -1,2 +1,2 @@
-Hola mundo en git!
+Hola react, no javascript en git!
 Estoy aprendiendo git
