@@ -1,1 +1,1 @@
-Hola javascript en git!
+Hola react, no javascript en git!
